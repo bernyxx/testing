@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="progetto.TrattaTest" time="0.006" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="progetto.TrattaTest" time="0" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IT"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\Kevin\AppData\Local\Temp\surefire7743204200123845968\surefirebooter8898289550360417502.jar C:\Users\Kevin\AppData\Local\Temp\surefire7743204200123845968 2022-06-22T10-44-41_404-jvmRun1 surefire15034559243134839565tmp surefire_04310586324130336523tmp"/>
+    <property name="sun.java.command" value="C:\Users\Kevin\AppData\Local\Temp\surefire13026595262939604081\surefirebooter13618472062426441439.jar C:\Users\Kevin\AppData\Local\Temp\surefire13026595262939604081 2022-06-22T10-51-27_318-jvmRun1 surefire18393870437441492256tmp surefire_03794150703425544135tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Documenti\eclipse-workspace\treno\target\test-classes;D:\Documenti\eclipse-workspace\treno\target\classes;C:\Users\Kevin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.3.1\junit-jupiter-engine-5.3.1.jar;C:\Users\Kevin\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Kevin\.m2\repository\org\junit\platform\junit-platform-engine\1.3.1\junit-platform-engine-1.3.1.jar;C:\Users\Kevin\.m2\repository\org\junit\platform\junit-platform-commons\1.3.1\junit-platform-commons-1.3.1.jar;C:\Users\Kevin\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Kevin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.3.1\junit-jupiter-api-5.3.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Kevin\AppData\Local\Temp\surefire7743204200123845968\surefirebooter8898289550360417502.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Kevin\AppData\Local\Temp\surefire13026595262939604081\surefirebooter13618472062426441439.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
@@ -58,5 +58,5 @@
   </properties>
   <testcase name="test" classname="progetto.TrattaTest" time="0"/>
   <testcase name="test2" classname="progetto.TrattaTest" time="0"/>
-  <testcase name="test3" classname="progetto.TrattaTest" time="0.006"/>
+  <testcase name="test3" classname="progetto.TrattaTest" time="0"/>
 </testsuite>
