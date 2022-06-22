@@ -19,3 +19,9 @@ jobs:
         cache: maven
     - name: Run Unit Tests
       run: mvn test
+      
+    - name: Static Analysis with PMD
+      uses: pmd/pmd-github-action@v1
+      with:
+        rulesets: 'ruleset.xml'
+    
